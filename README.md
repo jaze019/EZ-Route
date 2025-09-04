@@ -111,6 +111,6 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-[Zaid Dhanse] - [dhansezaid019@example.com]
+Zaid Dhanse - dhansezaid019@example.com
 
-Project Link: [https://github.com/[jaze_019]/[EZ-Route]](https://github.com/[jaze_019]/[EZ-Route])
+Project Link: https://github.com/jaze_019/EZ-Route(https://github.com/jaze_019/EZ-Route)
